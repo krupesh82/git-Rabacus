@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="Calculator1031.Droid.csproj">
+  <MonoDevelop.Ide.ItemProperties.Calculator1031.Droid PreferredExecutionTarget="Android.test4.0.3" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

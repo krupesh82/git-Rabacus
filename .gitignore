@@ -1,0 +1,10 @@
+
+*.dll
+
+*.mdb
+
+Calculator1031/bin/Debug/Resources/RABACUS_TOS.htm
+
+Calculator1031/LaunchScreen.storyboard
+
+Calculator1031/obj/Debug/Calculator1031.Disclaimer.xaml

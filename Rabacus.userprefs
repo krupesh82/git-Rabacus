@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Droid/Rabacus.Droid.csproj">
+  <MonoDevelop.Ide.ItemProperties.Rabacus.Droid PreferredExecutionTarget="Android.test4.0.3" AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Resources/drawable/SplashScreen.axml">
+    <Files>
+      <File FileName="Droid/SplashScreen.cs" Line="31" Column="17" />
+      <File FileName="Droid/Resources/values/style.xml" Line="6" Column="36" />
+      <File FileName="Droid/Resources/drawable/SplashScreen.axml" Line="13" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.05419d030a2264e2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/swatigupta/Projects/1031 Calculator PCL/Calculator1031/Calculator.xaml.cs" line="89" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="iOS/Calculator1031.iOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.Calculator1031.Droid PreferredExecutionTarget="Android.test4.0.3" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="iOS/Resources/Images.xcassets/AppIcons.appiconset/Contents.json" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/swatigupta/Projects/1031 Calculator PCL/Calculator1031/Calculator.xaml.cs" line="89" column="1" />
+      <Breakpoint file="/Users/swatigupta/Projects/1031 Calculator PCL/Calculator1031/SavedProperties.xaml.cs" line="16" column="1" />
+      <Breakpoint file="/Users/swatigupta/Projects/1031 Calculator PCL/Calculator1031/AboutUs.xaml.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
